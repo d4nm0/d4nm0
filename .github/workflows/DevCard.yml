@@ -1,4 +1,4 @@
-name: devcard
+name: DevCard
 
 on:
   workflow_dispatch:
