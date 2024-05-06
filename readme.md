@@ -3,8 +3,12 @@
 <div align="left">
 
 
- <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" /></a>
-  </a>
+ <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/d4nm0/d4nm0/devcard/devcard.png"
+    />
 </div>
 
 <br />
