@@ -3,7 +3,7 @@
 <div align="left">
 
 
- <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" /></a>
+ <a href="https://app.daily.dev/d4nm0"><img src="./devcard.png" width="356" /></a>
 </div>
 
 <br />
