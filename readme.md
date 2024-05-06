@@ -4,7 +4,7 @@
 
 <div style="margin-top: 80px">
  
- <a href="https://api.daily.dev/get?r=omBratteng" target="_blank" >
+ <a >
     <img 
       width="256"
       align="right"
