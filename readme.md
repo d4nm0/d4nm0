@@ -8,7 +8,7 @@
     <img 
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/d4nm0/d4nm0/devcard/devcard.png"
+      src="https://github.com/d4nm0/d4nm0/blob/main/devcard.png?raw=true"
     />
  </a><div>
 </div>
