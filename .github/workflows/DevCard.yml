@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - devcard
   schedule:
     - cron: "0 0 * * *"
 
@@ -17,6 +17,5 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
         with:
-          user_id: ${{ secrets.DEVCARD_ID }}
-          commit_branch: devcard
+          user_id: ${{ secrets.DEVCARD_ID }} 
           commit_message: "chore: update ${filename}"
