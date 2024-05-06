@@ -4,7 +4,7 @@
 
 
  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
+    <img style="margin-top: 80px"
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/d4nm0/d4nm0/devcard/devcard.png"
